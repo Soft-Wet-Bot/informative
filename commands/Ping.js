@@ -17,7 +17,7 @@ export default class Ping extends BaseCommand {
 
       name: 'ping',
       aliases: ['pong'],
-      description: 'Shows ping to Discord, response time and reply time.',
+      description: 'Shows bot\'s ping to Discord, response time and reply time.',
       usage: 'ping',
       params: [],
       example: 'ping'
